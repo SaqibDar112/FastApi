@@ -1,6 +1,6 @@
 #Vagrant file
 .vagrant/
-/env
+.env
 Vagrantfile
 # Byte-code files
 *.pyc
